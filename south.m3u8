@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/wHCslYwYiej_rb9NkWVStkmj6eioxdb0LfsIlEN81TZkJzaJlYS5XXQGyZdkAt_AWN7hWxKKYgmRMIXOTZEV_w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+https://d17lu2syx7ax41.cloudfront.net/live/stream101358.m3u8?Expires=1650152100&Signature=nxk7l4seZUJeX~nU8UJr3QvU9keP-qyvtRqN6gi4iDWSRttqIMOU4GrdyU0l0onA3IOP-fQNi7prPeTisEXcqQ5IuaQofRw9GxH-9MjdjAiW3hogNa7v3yO6rpLCcpVYthBSKWdfvhkjXWu5W1QMR0KgYp1AShCT-YRBPtNFThOsWDkvbxmMn4be-y4KaYNyqy-2BcS4czAMgev0zVCmpijDE3xuLxEidajsxpufU8R5rmXjc90o4qdkRh6HXPbtYPjOpAa4XwOL~gc3mvnuZZxVsWnA2Us38HC-MG9RjvG4iWXOrgWR6MaYbIF4tSZuMN~kcVqkeiKaKl8g81gOTw__&Key-Pair-Id=K1SXOWNSQGJT65
