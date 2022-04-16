@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://190.14.162.252:8080/espn/tracks-v2a1/mono.m3u8?Manujaz
+http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/wHCslYwYiej_rb9NkWVStkmj6eioxdb0LfsIlEN81TZkJzaJlYS5XXQGyZdkAt_AWN7hWxKKYgmRMIXOTZEV_w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
