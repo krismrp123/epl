@@ -1,13 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-MEDIA-SEQUENCE:192975
-#EXT-X-TARGETDURATION:5
-#EXTINF:4.026, no desc
-jggujqm@720p-20220503013807.ts
-#EXTINF:4.011, no desc
-jggujqm@720p-20220503013811.ts
-#EXTINF:4.000, no desc
-jggujqm@720p-20220503013815.ts
-#EXTINF:4.018, no desc
-jggujqm@720p-20220503013819.ts
+https://alplay.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1650270580-0-0-17538c7bccec7438ccdb9471e475778b
